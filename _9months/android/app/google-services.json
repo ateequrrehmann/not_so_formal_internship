@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "450420681032",
+    "project_id": "socioconnect-3a099",
+    "storage_bucket": "socioconnect-3a099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450420681032:android:6b01336bf2e5f12fe3ab7d",
+        "android_client_info": {
+          "package_name": "com.example.socioconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450420681032-nn8qff4bjg7j012sloj48f8vain4ebii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socioconnect",
+            "certificate_hash": "9af5eed71906c20114d8bb82468901835fa4c12b"
+          }
+        },
+        {
+          "client_id": "450420681032-ht2ffmo60u6m0om4b8ck5kmomjb27acl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAhaXdTp2iepWGKXwpLyqjD3OqKw7tsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450420681032-ht2ffmo60u6m0om4b8ck5kmomjb27acl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450420681032-cj1n8u9cif9r7ubhf2cvtmaq89o2m06s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socioconnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450420681032:android:0655cb20015ecd0de3ab7d",
+        "android_client_info": {
+          "package_name": "com.example.u_9months"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450420681032-ht2ffmo60u6m0om4b8ck5kmomjb27acl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAhaXdTp2iepWGKXwpLyqjD3OqKw7tsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450420681032-ht2ffmo60u6m0om4b8ck5kmomjb27acl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450420681032-cj1n8u9cif9r7ubhf2cvtmaq89o2m06s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socioconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
